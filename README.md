@@ -9,18 +9,19 @@ The model performance was measured by using the MSE and RMSE to understand how m
 
 Linear Regression
 
-Best MSE on Validation Set: 128,198,326.81
-Best MSE on Test Set: 132,150,263.03
-Best RMSE on Test Set: 11,495.66
-Cross-Validation RMSE: 11,978.48
-Cross-Validation MSE: 143,483,946.03
+- Best MSE on Validation Set: 128,198,326.81
+- Best MSE on Test Set: 132,150,263.03
+- Best RMSE on Test Set: 11,495.66
+- Cross-Validation RMSE: 11,978.48
+- Cross-Validation MSE: 143,483,946.03
+
 Random Forest Regression
 
-Best MSE on Validation Set: 34,564,020.51
-Best MSE on Test Set: 37,592,985.97
-Best RMSE on Test Set: 6,152.04
-Cross-Validation RMSE: 8,265.97
-Cross-Validation MSE: 68,326,238.19
+- Best MSE on Validation Set: 34,564,020.51
+- Best MSE on Test Set: 37,592,985.97
+- Best RMSE on Test Set: 6,152.04
+- Cross-Validation RMSE: 8,265.97
+- Cross-Validation MSE: 68,326,238.19
 
 From these results, the Random Forest model outperforms the Linear Regression model, showing lower MSE and RMSE values, both on the test set and in cross-validation.
 
